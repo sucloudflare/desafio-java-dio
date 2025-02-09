@@ -1,10 +1,6 @@
 <h1>Desafio DIO - Conta Banco</h1>
 
-<h2>Video</h2>
-<video width="640" height="360" controls>
-  <source src="a.mp4" type="video/mp4">
-  Seu navegador não suporta a tag de vídeo.
-</video>
+
 
 
 <p>Este projeto é uma solução para o desafio proposto no módulo de <strong>Sintaxe</strong> da Trilha <strong>Java Básico</strong> da DIO. O objetivo do desafio é criar um sistema simples que leia dados de uma conta bancária via terminal e exiba uma mensagem com as informações fornecidas.</p>
